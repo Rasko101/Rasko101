@@ -13,7 +13,7 @@ Hi, I'm Billy (Rasko101), a Full Stack Developer located in Greece. I mainly wor
 
 <b>Feel free to show some ❤️ by dropping a follow or starring some repositories!</b>
 
-![BossSoftwareSystemsAd](https://raw.githubusercontent.com/itz-hyperz/itz-hyperz/master/adBannerGreen.png)
+![CoreDevelopmentSystemsAd](https://raw.githubusercontent.com/Rasko101/Rasko101/adBannerBlue.png)
 
 **[HIRE ME][hireme]**<br>
 **[HIRE ME][hireme]**<br>
