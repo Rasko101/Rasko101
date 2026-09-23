@@ -7,7 +7,6 @@
 [![spotify](https://api.statusbadges.me/badge/spotify/1241535385134305353)](https://api.statusbadges.me/openspotify/1241535385134305353)
 ![vscode](https://api.statusbadges.me/badge/vscode/704094587836301392)
 
-
 [![DOD Badge](https://img.shields.io/badge/COMPANY-CORE-DEVELOPMENT?style=for-the-badge)](https://github.com/Rasko101)
 
 Hi, I'm Billy (Rasko101), a Full Stack Developer located in Greece. I mainly work on Node based applications, I have knowledge in Discord bots, and many more projects. I've been in the programming world since 2018 and have fully self taught myself from various resources online. I love to code and it's a passion turned into a [business][website] which I currently operate. I'm always looking to get my hands on new projects, so feel free to reach out to me via [Discord][discord] for custom commissions!
