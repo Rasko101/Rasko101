@@ -1,4 +1,4 @@
-### 💻 [Rasko101][website] 💻
+### 💻 [Rasko101] 💻
 
 ![](https://hit.yhype.me/github/profile?account_id=333060542)
 ![](https://komarev.com/ghpvc/?username=Rasko101&label=Views&color=lightgrey)
